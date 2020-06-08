@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  body {
+    width: 100%;
+    font-size: 12px;
+    color: black;
+    margin-left: auto;
+  }
+  header {
+    line-height: 12px;
+    margin-bottom: 30px;
+    background: rgb(128, 129, 129);
+  }
+
+  section {
+    width: 100%;
+    float: left;
+    margin-bottom: 200px;
+}
+#left {
+    line-height: 300px;
+    float: left;
+    width: 50%;
+    background: rgb(10, 31, 235);
+
+}
+#right {line-height: 300px;
+    float: right;
+    width: 25%;
+    background: rgb(250, 0, 24);
+}
+
+footer {
+    float: left;
+    line-height: 12px;
+    background: rgb(0, 121, 35);
+    width: 100%;
+
+}
+
