@@ -1,0 +1,37 @@
+
+body {
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: rgb(117, 186, 197);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+#title {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+
+nav {
+  list-style-type: none;
+  position: relative;
+  padding: 30px;
+  margin: 0;
+  overflow: hidden;
+}
+  
+
+#button {
+  margin: auto;
+}
+
+
+#logo {
+  margin-left: initial;
+  text-align: left;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
