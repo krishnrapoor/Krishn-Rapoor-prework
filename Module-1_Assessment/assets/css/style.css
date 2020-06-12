@@ -1,0 +1,97 @@
+/* INDEX CSS CODE */
+
+header{
+    border-bottom: 5px solid #cccccc;
+    position: sticky;
+    max-width: 100%;
+}
+nav{
+    max-width: 100%;
+}
+
+body{
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1{
+    color:#4aaaa5;
+    border-bottom: 5px solid #dddddd;
+}
+
+#profilepic {
+    margin-right: 20px;
+}
+
+#mainbackground {
+    padding-bottom: 20%;
+}
+
+footer {
+    font-size: small;
+    bottom: 0;
+    width: max-content;
+    color: white;
+    border-top: 5px solid #4aaaa5;
+}
+
+.navbar-expand-lg.justify-content-between.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.nav-item{
+    color: gray;
+}
+
+/* CONTACT CSS CODE */
+
+#contact {
+    color:#4aaaa5;
+    border-bottom: 5px solid #dddddd;
+    font-weight: bold;
+}
+
+.btn.btn-info {
+    background-color: #4aaaa5;
+}
+
+/* PHOTO GALLERY CSS CODE */
+
+.btn.btn-light.gallery{
+    margin: 20px;
+  }
+
+
+  .col-md-4.gallery{
+    position: relative;
+  }
+  
+  .button.textblock {
+    text-align: center;
+    position: absolute;
+    bottom: 5%;
+    padding: 10px;
+    width: 89%;
+    background-color: #4aaaa5;
+    color: white;
+    margin: 20px;
+    max-width: 89%;
+  }
+
+  .button.image{
+      margin:20px;
+      max-width: 100%;
+      height: auto;
+  }
+
+  .button{
+    border: none;
+    cursor: pointer;
+  }
+
+  .button:hover{
+    filter: brightness(120%);
+}
+
+
