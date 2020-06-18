@@ -1,9 +1,9 @@
 # Krishn-Rapoor-prework
 ## About Me
-
+Hi I'm Krishn. I had a great time working on the projects in the Dev10 course. I learned a lot through the process. This is my first time learning these software langauges (HTML,CSS, and JS). During the process, I began to appreciate more of the brainstorming, using the flowchart methods. I've had experience in pre-med and economics, but the skills that you learn in software development are like none other. It took me some time to re-wire my brain a little bit and go through both module 1 and module 2. After, just those short 2 weeks, I have learned many valuables skills; and I hope to learn more.
 
 ### Module 1 Review
-
-
+I found module 1 moderately difficult. Module 1 challenged me to use the knowledge I learened from the lessons and make a website that wasn't just a "copy and paste" code. I had to look-up code, adapt code, and debug the code. I learned a lot about the process of testing and debugging. In the end, I was proud of the project that I finished. I made the website with the desired specifications, and I had a lot of fun learning new pieces of code along the way as well. 
 
 ### Module 2 Review
+I found module 2 to be pretty difficult. The hardest part of this module was where to start. I tried to start coding immediately, but it proved to be ineffective. So, I went back to the drawing board and mapped out a flowchart. The brainstorming phase was very crucial for me. Once I had a plan, I began to make a some great code that created a working Hangman. Unfortunately, I could not figure out how to change the __ __ __ into the letters of the corresponding spaces. I spent several hours to figure it out, but I could not manage to figure it out. Though, my hangman is not the masterpiece I dreamt, I learned a lot about javascript throughout the way. I hope to do more projects on my own for fun (and perfect my hangman!)to improve my skills. JS is a very exiting language that I hope to learn more about. I know I have only brushed the surface of information, but I am more motivated than ever to take on Dev10! Whatever the outcome may be of this interview process, I'm glad I took part in this course, as I will continue to work on my coding craft. Thank you for this oppurtunity and all the best!
